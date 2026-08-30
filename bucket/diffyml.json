@@ -1,19 +1,19 @@
 {
-    "version": "1.8.0",
+    "version": "1.8.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/szhekpisov/diffyml/releases/download/v1.8.0/diffyml_1.8.0_windows_amd64.zip",
+            "url": "https://github.com/szhekpisov/diffyml/releases/download/v1.8.1/diffyml_1.8.1_windows_amd64.zip",
             "bin": [
                 "diffyml.exe"
             ],
-            "hash": "4ba21c3e9b3311455da3e8ea75df1ac166b094da851791215be160bbfb4f2633"
+            "hash": "922508665f05397027e118c284d9bdc845cf235e1fe4062a971e46905bafd63b"
         },
         "arm64": {
-            "url": "https://github.com/szhekpisov/diffyml/releases/download/v1.8.0/diffyml_1.8.0_windows_arm64.zip",
+            "url": "https://github.com/szhekpisov/diffyml/releases/download/v1.8.1/diffyml_1.8.1_windows_arm64.zip",
             "bin": [
                 "diffyml.exe"
             ],
-            "hash": "e515ddff727b2c753a3c7235fa7a79ef644cc34fde7e0327d67a1ce85f68bd34"
+            "hash": "57ef1cc5233bd531ee389ec3f4952e278ee90339c6bad7e937aff990696f9796"
         }
     },
     "homepage": "https://github.com/szhekpisov/diffyml",
