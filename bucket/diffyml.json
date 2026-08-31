@@ -6,14 +6,14 @@
             "bin": [
                 "diffyml.exe"
             ],
-            "hash": "922508665f05397027e118c284d9bdc845cf235e1fe4062a971e46905bafd63b"
+            "hash": "cb99ca0c2dc60a0a8d93fbd66abf26aa99b7d7d80fb985c5c39f2736aafeb066"
         },
         "arm64": {
             "url": "https://github.com/szhekpisov/diffyml/releases/download/v1.8.1/diffyml_1.8.1_windows_arm64.zip",
             "bin": [
                 "diffyml.exe"
             ],
-            "hash": "57ef1cc5233bd531ee389ec3f4952e278ee90339c6bad7e937aff990696f9796"
+            "hash": "aff3fc8b30a56d3dd3941c28ddcbc0be1bbaa1ed695bf923b0d23acad867c9b6"
         }
     },
     "homepage": "https://github.com/szhekpisov/diffyml",
